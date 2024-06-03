@@ -1,5 +1,5 @@
 Tic-tac-toe is a classic paper-and-pencil game typically played on a 3x3 grid. The game is also known as noughts and crosses or Xs and Os.
-
+Game link - https://shreyanaik04.github.io/TIC-TAC-TOE/
 *Set of Rules*
 
 1. *Grid*: The game is played on a 3x3 grid, but larger grids can be used for more advanced versions.
